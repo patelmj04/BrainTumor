@@ -1,6 +1,6 @@
-# NEURO INSight
+# NEURO INSIGHT
 
-NEURO INSight is a brain tumor detection application designed to analyze MRI scans and accurately detect the presence of tumors. The application leverages deep learning techniques to assist medical professionals in diagnosing brain tumors efficiently.
+NEURO Insight is a brain tumor detection application designed to analyze MRI scans and accurately detect the presence of tumors. The application leverages deep learning techniques to assist medical professionals in diagnosing brain tumors efficiently.
 
 ## Frontend Overview
 
