@@ -2,7 +2,7 @@
 
 NEURO Insight is a brain tumor detection application designed to analyze MRI scans and accurately detect the presence of tumors. The application leverages deep learning techniques to assist medical professionals in diagnosing brain tumors efficiently.
 
-## Frontend Overview
+### Frontend Overview
 
 The frontend of NEURO INSight is developed using *React.js with Vite* to provide a seamless and responsive user experience. The user interface allows users to upload MRI scans and view detection results in real-time. 
 --
