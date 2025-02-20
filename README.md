@@ -23,7 +23,7 @@ The frontend of NEURO INSight is developed using **React.js with Vite** to provi
 ## Upload Now
 ![image](https://github.com/user-attachments/assets/233a748f-cc46-4dfc-ac55-b62ba79d1228)
 
---
+
  
 ### Technologies Used
 
